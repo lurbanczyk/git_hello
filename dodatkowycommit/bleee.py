@@ -1,0 +1,1 @@
+print("rzygam tym gównem")
